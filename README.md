@@ -20,7 +20,7 @@
 
 ## Installation Process
 ```
-git clone https://github.com/boybenson/fast_food.git
+git clone (https://github.com/Nashons/food-delivery-app.git)
 cd fast_food
 ```
 install backend server dependencies
